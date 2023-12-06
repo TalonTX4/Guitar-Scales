@@ -15,5 +15,19 @@
   "bugs": {
     "url": "https://github.com/TalonTX4/Guitar-Scales/issues"
   },
-  "homepage": "https://github.com/TalonTX4/Guitar-Scales#readme"
+  "homepage": "https://github.com/TalonTX4/Guitar-Scales#readme",
+  "dependencies": {
+    "axios": "^1.6.2",
+    "bcryptjs": "^2.4.3",
+    "config": "^3.3.9",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "express-validator": "^7.0.1",
+    "gravatar": "^1.8.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongodb-memory-server": "^9.1.1",
+    "mongoose": "^8.0.2",
+    "path-browserify": "^1.0.1",
+    "request": "^2.88.2"
+  }
 }
