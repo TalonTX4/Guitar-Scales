@@ -1,0 +1,19 @@
+{
+  "name": "guitar-scales",
+  "version": "1.0.0",
+  "description": "A project to help in learning the various guitar scales",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TalonTX4/Guitar-Scales.git"
+  },
+  "author": "Joseph A Paier",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TalonTX4/Guitar-Scales/issues"
+  },
+  "homepage": "https://github.com/TalonTX4/Guitar-Scales#readme"
+}
